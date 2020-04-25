@@ -10,6 +10,7 @@ public class Arbol {
 
     public Arbol() {
         raiz = null;
+        dfgsdgsdfgsdg
     }
 
     private boolean esHoja(Nodo pr) {
